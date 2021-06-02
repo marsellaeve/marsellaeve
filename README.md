@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, Let's get to know me! 👋
+</div>
 
-<!--
-**marsellaeve/marsellaeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="justify">
+My name is Evelyn Tjitrodjojo, I'm in 6th semester of Informatics Engineering Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia. I still learning to explore more about programming. And here, I will share about my projects. Thank you for being interested with my github.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+I open to talk about anything, just contact me at:
+  - [Instagram](https://instagram.com/m.evelyn_tj)
+  - marsella.eve@gmail.com
+  - [LinkedIn](https://www.instagram.com/m.evelyn_tj/)
+
+---------------------------------------------------
+<div align="center">
+  
+![Marsellaeve's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marsellaeve&hide=hack,pawn&bg_color=1d1f21&title_color=5eaeeb&text_color=c9cacc&icon_color=5eaeeb)
+![Marsellaeve's Github Stats](https://github-readme-stats.vercel.app/api?username=marsellaeve&show_icons=true&hide_border=true&bg_color=1d1f21&title_color=5eaeeb&text_color=c9cacc&icon_color=5eaeeb)
+</div>
