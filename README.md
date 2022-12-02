@@ -2,7 +2,7 @@
 </div>
 
 <div align="justify">
-My name is Evelyn Tjitrodjojo, I graduated from Informatics Engineering Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia. I still learning to explore more about programming. And here, I will share about my projects. Thank you for being interested with my github.
+My name is Evelyn Tjitrodjojo, I'm a Frontend Engineer and I graduated from Informatics Engineering Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia. I still learning to explore more about programming. And here, I will share about my projects. Thank you for being interested with my github.
 
 </div>
 
