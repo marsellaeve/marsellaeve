@@ -11,7 +11,7 @@ My name is Evelyn Tjitrodjojo, I graduated from Informatics Engineering Institut
 I open to talk about anything, just contact me at:
   - [Instagram](https://instagram.com/m.evelyn_tj)
   - marsella.eve@gmail.com
-  - [LinkedIn](https://www.instagram.com/m.evelyn_tj/)
+  - [LinkedIn](https://www.linkedin.com/in/evelyntj/)
 
 ---------------------------------------------------
 <div align="center">
